@@ -1,0 +1,6 @@
+﻿  Evenfibonacci.cpp
+  Fibonacci.cpp
+D:\Projetos\VisualStudio\Evenfibonacci\Fibonacci.cpp(10,13): warning C4018: '<': signed/unsigned mismatch
+D:\Projetos\VisualStudio\Evenfibonacci\Fibonacci.cpp(15,11): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Evenfibonacci.vcxproj -> D:\Projetos\VisualStudio\Evenfibonacci\x64\Debug\Evenfibonacci.exe
